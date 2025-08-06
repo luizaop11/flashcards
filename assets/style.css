@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
-body{
-    background-color:gainsboro 
+body {
+  background-color: gainsboro
 }
 
-    footer{
-        background-color: black;
-    color: white;
-    position: fixed 
-      bottom: 0
-    width: 100%;
-    height: 2rem;
-    }
+footer {
+  background-color: black;
+  color: white;
+  position: fixed bottom: 0
+  width: 100%;
+  height: 2rem;
+}
