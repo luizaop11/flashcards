@@ -1,3 +1,10 @@
+:root {
+    --text-color: #2E2E2E;
+    --card-front-color: #EED6C4;
+    --card-back-color: #DAD4EF;
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
 body {
@@ -10,7 +17,7 @@ body {
 
 .cartao{
   margin: 1rem 1rem;
-  background-color: olivedrab;
+   background: url('img/bg-desktop.webp');
   height: 20rem;
   flex-grow: 1;
   flex-basis: calc(33%-6rem);
