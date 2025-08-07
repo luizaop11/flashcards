@@ -15,3 +15,9 @@ criaCartao(
     'Qual é a diferença entre DENOTAÇÃO e CONOTAÇÃO?',
     'Denotação é o uso da palavra em seu sentido literal. Conotação é o uso da palavra no sentido figurado.'
 )
+
+criaCartao(
+    'Você sabia?',
+    'Qual animal tem três corações, sangue azul e pode desligar um braço para fugir?',
+    'O polvo! Dois corações bombeiam sangue para as guelras e um para o corpo, seu sangue azul é por causa da hemocianina e solta um braço para escapar de predadores.'
+)
