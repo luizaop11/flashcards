@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Você sabia?',
     'Qual animal tem três corações, sangue azul e pode desligar um braço para fugir?',
-    'O polvo! Dois corações bombeiam sangue para as guelras e um para o corpo, seu sangue azul é por causa da hemocianina e solta um braço para escapar de predadores.'
+    'O polvo! Dois corações bombeiam sangue para as guelras e um para o corpo, seu sangue é azul por causa da hemocianina, e ele pode soltar um braço para escapar de predadores.'
 )
