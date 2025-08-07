@@ -48,6 +48,9 @@ font-size: 1vw;
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
+    padding: 1rem;
+    line-height: 1.5;
+    text-align: center;
 }
 
 .cartao__conteudo__resposta p {
